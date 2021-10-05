@@ -1,0 +1,133 @@
+[
+    {
+        "key": "S0T0U0D0E0N0T1",
+        "id": "01",
+        "category": "Indian",
+        "name": "Bharatnatyam",
+        "trainners": "Shibu Pradhan",
+        "price": "249.99",
+        "description": "Performed on the celestial tunes of the Carnatic music, Bharatnatyam comes from the state of Tamil Nadu in South. The origins of Bharatnatyam can be traced back to 1000 BC, and it originates from the ancient temples of Tamil Nadu performed by the women of the classical period. The dance form is known for its beautiful body movements and gestures which are called Mudras in the traditional language. It focuses on the hand gestures, leg movement and the facial expressions of the dancer. This dance form was very prevalent before the British era but was profoundly depressed during the colonial period. However, India kept the dance form alive in the houses, and today it is recognised as one of the most respectable art forms in India especially in the Southern region of the country where it is a moment of pride for the women of the house to learn the classical dance form of Bharatnatyam.",
+        "img": "/Danch Academy/packegs/in (1).jpeg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T2",
+        "id": "02",
+        "category": "Indian",
+        "name": "Kathak",
+        "trainners": "Atif Islam",
+        "price": "214.49",
+        "description": "Coming from the northern part of the country from the state of Uttar Pradesh, Kathak comes from the word 'Katha' which means 'story' in Hindi. It isn't a very smart guess for one to make that Kathak is performed in the form of storytelling through the body movements used by the dancer. Kathak is often referred to as the dance of love, and it can be performed by both by the male and female dancer together. This dance form focuses highly on the ankle movements complemented by the ankle that has to match the beats of the music. Ankle bells or gunghroos as they are called in the traditional language is an important part of the discipline of this dance form. Various distinctions can be witnessed in this dance forms as it is performed in various places in the country which includes Jaipur, Benaras, and Lucknow.",
+        "img": "/Danch Academy/packegs/in (2).jpeg"
+    },
+    
+    {
+        "key": "S0T0U0D0E0N0T3",
+        "id": "03",
+        "category": "Indian",
+        "name": "Kathakali",
+        "trainners": "Reshma Hayath Khan",
+        "price": "244.49",
+        "description": "Kathakali is another traditional dance form of India which relates to the storytelling. Kathakali translates to the 'storyteller' in the country's language. Coming from the Southern region of the country from Kerala, Kathakali is one of the most renowned and religious dances forms of India. It originates from the tales of Ramayana and Shiva stories. Kathakali includes the intriguing face movements and the heavy costumes which include the traditional face masks and body paints (generally green). The music which includes only the vocals is called Soppanam. The storytelling of the epic Hindu mythology tales depicting both evil and good is shown through the conversation between the dancers only through their body gestures and facial expressions. Simply fascinating to watch!",
+        "img": "/Danch Academy/packegs/in (1).jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T4",
+        "id": "04",
+        "category": "Indian",
+        "name": "Manipuri",
+        "trainners": "Youmesh Yadubh",
+        "price": "224.49",
+        "description": "As you stroll towards the North-east India which is brimming with the rich tradition and their unique culture, Manipuri comes as an important symbol to represent the state of Manipur from the region. This dance form is performed to narrate the romantic relationship between the Hindu gods Radha and Krishna, which is famously known as RaasLeela. This art form is performed in a team with the traditional Manipuri costumes and makeup to narrate the tale of the two gods. The dance is performed on the narrative chanting and the music created by the Indian classical instruments.",
+        "img": "/Danch Academy/packegs/in (2).jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T5",
+        "id": "05",
+        "category": "Indian",
+        "name": "Kuchipudi",
+        "trainners": "Ridhi Thakur",
+        "price": "238.49",
+        "description": "Belonging to the Andhra Pradesh, Kuchipudi is probably the toughest form of classical dance in India. Kuchipudi is not just considered as the dance but a whole religious procedure dedicated to God which includes certain rituals such as sprinkling the holy water, burning the incense sticks and praying to God. Kuchipudi includes both singing and dancing by the performer which is why it requires both the skill and much more dedication than any other art forms in India. In the earlier period, Kuchipudi was only performed by the male dancers in the temples, specifically the Brahmins( Upper caste of the society) but with the passage of time, it became famous amongst the women and nowadays it is mostly performed by the female dancers.",
+        "img": "/Danch Academy/packegs/in.jpeg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T6",
+        "id": "06",
+        "category": "Indian",
+        "name": "Odissi",
+        "trainners": "Powbon Auday",
+        "price": "219.49",
+        "description": "Odissi dance form comes from the state of Odisha in the eastern part of India. The traditional dance has been derived from the Hindu temples in Odisha. Most of the gestures and movements (Mudras) are inspired by the sculptors and idols belonging to the ancient temples of India. The dance is performed as a way to express the mythological tales of Hindu gods, including that of Shiva and Surya. The dance is accompanied by a mythical story, Hindi poem in the form of music by the musicians. Odissi is considered as the oldest dance forms of India which are surviving till today. Odissi dance is performed mostly by the women dancers, and it includes more than 50 intriguing mudras (body movements).",
+        "img": "/Danch Academy/packegs/Bihu_of_Assam_20180314220215.jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T7",
+        "id": "07",
+        "category": "Western",
+        "name": "Break Dance",
+        "trainners": "Daniyel Ziku",
+        "price": "334.49",
+        "description": "Break dancing is a type of street dancing which has evolved from the USA. Other names for street dancing are B-Boying or breaking. This form of dance style involves energetic moves and humour. The term Break refers to the mixing of different music and sounds to form a particular beat on which dance can be performed. Break dancing clothes include free comfortable clothes such as tracksuit, T-shirts or a pair of sweatpants and recommended shoes are sneakers to reduce pressure on the feet while dancing. Few of the dance moves include Top Rock, Footwork, Go down, Freezes, Power Moves, Transitions, Flips, and Tricks.",
+        "img": "/Danch Academy/packegs/jazz-2-1024x576.jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T8",
+        "id": "08",
+        "category": "western",
+        "name": "Belly Dance",
+        "trainners": "Justine Jasy",
+        "price": "394.49",
+        "description": "Belly dance is also referred to as Arabic dance. In belly dance hip twirl is basically a middle driven move. Unlike all the western dance forms, the focus of this dance form is on isolations of the torso muscles, rather than the movements of the limbs on space.",
+        "img": "/Danch Academy/packegs/Belly-dance-3-1024x768.jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N0T9",
+        "id": "09",
+        "category": "western",
+        "name": "Jazz",
+        "trainners": "Remo Desuza",
+        "price": "254.49",
+        "description": "Jazz dance is a performance dance technique and style that previously arose in the United States in the mid-twentieth century. In the Jazz dance form, the dancers are urged to add their own personality to each step. Jazz steps include basic turns, including chains, arouses, pirouettes, jazz turns and some ballet turns. Leap includes Grande jetes, turning jumps, and tour jetes. “Jazz walk” is the signature to jazz dancing. Jazz walks can be performed in many dance styles. Another popular jazz move is “contraction”. A contraction is cultivated by getting the torso, with the back curved outward and the pelvis pulled forward. You’ll likewise become familiar with basic Jazz Square and leg holds. Learning jazz dance techniques takes a great deal of learning.",
+        "img": "/Danch Academy/Swing-Couple-002_1200x630-1-1024x538.jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N1T0",
+        "id": "10",
+        "category": "western",
+        "name": "Ballet",
+        "trainners": "Prince Ramuyen",
+        "price": "299.99",
+        "description": "Ballet Dance is a highly technical form of dance with its own vocabulary based on French terminology. It has been defined as a foundational technique used in various dance genres or culture. It has been taught in various schools around the globe. Ballet consists of choreography and music for a ballet production. The ballet dance form is choreographed by trained ballet dancers. Traditional classical ballet is usually performed with classical music and uses classic costumes and staging whereas modern ballet is often performed with simple costumes without using a set of scenery.",
+        "img": "/Danch Academy/packegs/ballet-683x1024.jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N1T1",
+        "id": "11",
+        "category": "western",
+        "name": "Contemporary Dance",
+        "trainners": "Behue Hozze",
+        "price": "287.49",
+        "description": "The contemporary Dance form is a technical dance form. It is one of the dominant genres for formally trained dancers throughout the world. Although educated by and acquiring from traditional (classical), modern, jazz styles. It has come to fuse components of many styles of dance. Due to technical similarities, it is often perceived to be closely related to modern dance, classical dance, and ballet.Regarding the focal point of its techniques, contemporary dance tends to the combination of strong and controlled legwork of ballet with modern that stresses on the middle. It additionally utilizes contract release, floor work, fall and recovery, hand movements, and improvisation characteristics of modern dance.",
+        "img": "/Danch Academy/packegs/contemporary-dance-1024x576.jpg"
+    },
+
+    {
+        "key": "S0T0U0D0E0N1T2",
+        "id": "12",
+        "category": "western",
+        "name": "Hip Hop Dance",
+        "trainners": "Rika Humss",
+        "price": "324.49",
+        "description": "Hip Hop Dance refers to street dance styles primarily performed on hip hop music. Hip hop dance can be a form of entertainment or a hobby. It can likewise be an approach to remain active in competitive dance and a way to make a living by dancing professionally. Hip hop is quite distinguished from other forms of dance that it is often 'freestyle' (improvisational) in nature. Hip hop dance crews often take part in freestyle competitions which referred to as 'battles'. Crews, freestyling, battles are the main identifiers of this dance style. Hip hop dance form is itself a culture that includes various dance styles such as breaking, locking, popping, krumping, lyrical, etc.",
+        "img": "/Danch Academy/packegs/hip-hop-1024x768.jpg"
+    }
+]

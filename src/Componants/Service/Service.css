@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.btn-details{
+    background: darkgoldenrod;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.price-details {
+    display: flex;
+    justify-content: space-between;
+}

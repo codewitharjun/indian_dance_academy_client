@@ -1,0 +1,13 @@
+.servicess {
+  width: 85%;
+  margin: 0 auto;
+}
+.servicess h1 {
+  margin-bottom: 10px;
+  text-align: center;
+  background: rgb(240, 240, 240);
+  padding: 7px 0;
+  color: rgb(92, 0, 61);
+  font-size: 36px;
+  font-weight: 900;
+}

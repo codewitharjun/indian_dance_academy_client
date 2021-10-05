@@ -1,0 +1,27 @@
+.main-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(238, 255, 0, 0.877);
+    padding: 50px 100px;
+}
+
+.quates {
+    color: hsl(330, 81%, 50%);
+}
+.quates h4{
+    font-size: 18px;
+    padding-left: 30px;
+    color: hsl(293, 81%, 50%);
+}
+.star-img {
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+    width: auto;
+}
+
+.star-img img {
+    height: 128px;
+    width: 128px;
+}

@@ -1,0 +1,35 @@
+.servicess div {
+    margin: 10px 0;
+}
+
+.packegs {
+    padding: 10px 0;
+    background: rgb(240, 240, 240);
+}
+.servicess h3 {
+    color: rgb(105, 0, 91);
+}
+
+.enroll {
+    padding: 100px 0;
+    background: rgb(236, 255, 220);
+}
+
+.content {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.enroll h1 {
+    font-size: 36px;
+    color: rgb(105, 0, 91);
+    margin-bottom: 10px;
+}
+.enroll span {
+    padding: 10px 20px;
+    margin: 20px;
+    margin-top: 20px;
+    background: white;
+    font-size: 40px;
+    font-weight: 700;
+}
